@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\cs461_prototype.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{D3B8FBBB-1B97-4BBB-9CE8-5145DE67447B}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\cs461_prototype.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\cs461_prototypeEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{E66D4CCB-1611-4729-96A2-AF472E717202}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\cs461_prototype">
+			<UniqueIdentifier>{6FD15C77-6CFF-46F8-8AE9-E8B18B25FEAB}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\cs461_prototype\cs461_prototype.Build.cs">
+			<Filter>Source\cs461_prototype</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\cs461_prototype\cs461_prototype.cpp">
+			<Filter>Source\cs461_prototype</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\cs461_prototype\cs461_prototype.h">
+			<Filter>Source\cs461_prototype</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\cs461_prototype\dCharacter.cpp">
+			<Filter>Source\cs461_prototype</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\cs461_prototype\dCharacter.h">
+			<Filter>Source\cs461_prototype</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\cs461_prototype\dCharacter_base.cpp">
+			<Filter>Source\cs461_prototype</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\cs461_prototype\dCharacter_base.h">
+			<Filter>Source\cs461_prototype</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\cs461_prototype\NPCController_base.cpp">
+			<Filter>Source\cs461_prototype</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\cs461_prototype\NPCController_base.h">
+			<Filter>Source\cs461_prototype</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
