@@ -1,0 +1,1707 @@
+﻿Log file open, 04/30/18 11:10:13
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: cs461_prototype
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(727973789) SRandInit(727973789).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 3944462, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.172216
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.106s to configure plugins.
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/Matthew/Documents/Unreal Projects/shootergame/Binaries/Win64/UE4Editor-cs461_prototype.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-5V2GROA (10.0.0.25:0)
+LogInit: Build: ++UE4+Release-4.19-CL-3944462
+LogInit: Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Mar 13 2018 23:12:32
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: -EpicPortal 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.30-15.10.15:175][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.30-15.10.15:175][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.30-15.10.15:192][  0]LogInit: Computer: DESKTOP-5V2GROA
+[2018.04.30-15.10.15:192][  0]LogInit: User: Matthew
+[2018.04.30-15.10.15:192][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.04.30-15.10.15:192][  0]LogInit: High frequency timer resolution =2.929689 MHz
+[2018.04.30-15.10.15:192][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.04.30-15.10.15:192][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.30-15.10.15:192][  0]LogMemory: Process Physical Memory: 277.37 MB used, 277.37 MB peak
+[2018.04.30-15.10.15:192][  0]LogMemory: Process Virtual Memory: 264.00 MB used, 264.00 MB peak
+[2018.04.30-15.10.15:192][  0]LogMemory: Physical Memory: 3830.79 MB used,  12516.09 MB free, 16346.88 MB total
+[2018.04.30-15.10.15:192][  0]LogMemory: Virtual Memory: 682.38 MB used,  12516.09 MB free, 134217728.00 MB total
+[2018.04.30-15.10.15:208][  0]LogInit: Using OS detected language (en-US).
+[2018.04.30-15.10.15:208][  0]LogInit: Using OS detected locale (en-US).
+[2018.04.30-15.10.15:211][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.04.30-15.10.15:614][  0]LogStreaming: Display: Took  0.406s to EndInitTextLocalization.
+[2018.04.30-15.10.15:614][  0]LogInit: Setting process to per monitor DPI aware
+[2018.04.30-15.10.15:640][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.04.30-15.10.15:640][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.04.30-15.10.15:805][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.30-15.10.15:835][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 3GB' (Feature Level 11_0)
+[2018.04.30-15.10.15:835][  0]LogD3D11RHI:       2982/0/8173 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.04.30-15.10.15:837][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.30-15.10.15:837][  0]LogD3D11RHI:       0/0/8173 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.30-15.10.15:837][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.30-15.10.15:841][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.30-15.10.15:841][  0]LogD3D11RHI:     GPU DeviceId: 0x1c02 (for the marketing name, search the web for "GPU Device Id")
+[2018.04.30-15.10.15:841][  0]LogWindows: EnumDisplayDevices:
+[2018.04.30-15.10.15:842][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 3GB' (P:1 D:1)
+[2018.04.30-15.10.15:842][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2018.04.30-15.10.15:842][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2018.04.30-15.10.15:842][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2018.04.30-15.10.15:842][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.30-15.10.15:842][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 3GB
+[2018.04.30-15.10.15:842][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.30-15.10.15:842][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.30-15.10.15:842][  0]LogRHI: Texture pool is 2087 MB (70% of 2982 MB)
+[2018.04.30-15.10.15:859][  0]LogD3D11RHI: [Aftermath] Aftermath enabled but failed to initialize
+[2018.04.30-15.10.15:859][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.30-15.10.15:869][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.04.30-15.10.15:918][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (../../../../../../Users/Matthew/Documents/Unreal Projects/shootergame/Intermediate/Shaders/WorkingDirectory/3476/).
+[2018.04.30-15.10.15:918][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Matthew/AppData/Local/Temp/UnrealShaderWorkingDir/AF71E5CD4A9C595D0288E7967D32BBC4/'.
+[2018.04.30-15.10.16:184][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.30-15.10.16:198][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.30-15.10.16:212][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.30-15.10.16:225][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.30-15.10.16:239][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.30-15.10.16:253][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.30-15.10.16:266][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.30-15.10.16:280][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.30-15.10.16:286][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.30-15.10.16:298][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.30-15.10.16:311][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.30-15.10.16:323][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.30-15.10.16:334][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.04.30-15.10.16:346][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.30-15.10.16:358][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.30-15.10.16:382][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.30-15.10.16:382][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.30-15.10.16:395][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.30-15.10.16:396][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.30-15.10.16:433][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.30-15.10.16:444][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.30-15.10.16:456][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.30-15.10.16:468][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.30-15.10.16:480][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.30-15.10.16:492][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.30-15.10.16:492][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.30-15.10.16:589][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.04.30-15.10.16:589][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.04.30-15.10.16:589][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.30-15.10.17:312][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.30-15.10.17:377][  0]LogDerivedDataCache: Loaded boot cache 0.07s 74MB C:/Users/Matthew/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.04.30-15.10.17:378][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Matthew/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.04.30-15.10.17:378][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Matthew/Documents/Unreal Projects/shootergame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.30-15.10.17:378][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.30-15.10.17:378][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Matthew/Documents/Unreal Projects/shootergame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.30-15.10.17:378][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.30-15.10.17:394][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.30-15.10.17:406][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Matthew/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.30-15.10.17:418][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.30-15.10.17:418][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.30-15.10.17:418][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.30-15.10.17:418][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.30-15.10.17:531][  0]LogAssetRegistry: FAssetRegistry took 0.0260 seconds to start up
+[2018.04.30-15.10.17:820][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.30-15.10.17:961][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.30-15.10.17:964][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.30-15.10.17:964][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.30-15.10.17:964][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.30-15.10.17:964][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.30-15.10.17:964][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.30-15.10.17:993][  0]LogNetVersion: cs461_prototype , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 668034427)
+[2018.04.30-15.10.18:409][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.082843 seconds
+[2018.04.30-15.10.18:414][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.04.30-15.10.18:414][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.04.30-15.10.18:414][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.30-15.10.19:870][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.30-15.10.19:897][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.30-15.10.20:237][  0]SourceControl: Source control is disabled
+[2018.04.30-15.10.20:237][  0]SourceControl: Source control is disabled
+[2018.04.30-15.10.20:254][  0]SourceControl: Source control is disabled
+[2018.04.30-15.10.20:269][  0]SourceControl: Source control is disabled
+[2018.04.30-15.10.20:746][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.30-15.10.20:887][  0]LogOcInput: OculusInput pre-init called
+[2018.04.30-15.10.20:989][  0]LogEngine: Initializing Engine...
+[2018.04.30-15.10.20:990][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.04.30-15.10.20:991][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.30-15.10.20:991][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.30-15.10.21:195][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.30-15.10.21:207][  0]LogInit: XAudio2 using 'Headset Earphone (SteelSeries Arctis 5 Chat)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.30-15.10.21:223][  0]LogInit: FAudioDevice initialized.
+[2018.04.30-15.10.21:290][  0]LogDerivedDataCache: Saved boot cache 0.07s 74MB C:/Users/Matthew/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.04.30-15.10.21:299][  0]LogInit: Texture streaming: Enabled
+[2018.04.30-15.10.21:313][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.30-15.10.21:325][  0]LogInit: Transaction tracking system initialized
+[2018.04.30-15.10.21:346][  0]BlueprintLog: New page: Editor Load
+[2018.04.30-15.10.21:417][  0]LocalizationService: Localization service is disabled
+[2018.04.30-15.10.21:502][  0]LogConsoleResponse: Display: 
+[2018.04.30-15.10.21:655][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.30-15.10.21:655][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.30-15.10.21:655][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.30-15.10.21:655][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.30-15.10.21:655][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.30-15.10.21:989][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Matthew/Documents/Unreal Projects/shootergame/Content/' took 0.02s
+[2018.04.30-15.10.21:989][  0]SourceControl: Source control is disabled
+[2018.04.30-15.10.21:989][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Matthew/Documents/Unreal Projects/shootergame/Content/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.30-15.10.21:999][  0]LightingResults: New page: Lighting Build
+[2018.04.30-15.10.22:002][  0]MapCheck: New page: Map Check
+[2018.04.30-15.10.22:002][  0]LightingResults: New page: Lighting Build
+[2018.04.30-15.10.23:465][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [7.620604ms] /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2018.04.30-15.10.23:553][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [15.238819ms] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2018.04.30-15.10.23:574][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [5.590696ms] /Game/FirstPerson/FPWeapon/Mesh/SK_FPGun.SK_FPGun
+[2018.04.30-15.10.23:726][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.04.30-15.10.23:743][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Procedural/Procedural1) is flushing async loading
+[2018.04.30-15.10.23:853][  0]LoadErrors: Error: /Game/Maps/Procedural/Procedural1 : Failed import for MapBuildDataRegistry /Game/Maps/Procedural/Procedural1_BuiltData.Procedural1_BuiltData Referenced by export Level /Game/Maps/Procedural/Procedural1.Procedural1:PersistentLevel
+[2018.04.30-15.10.23:854][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/light) is flushing async loading
+[2018.04.30-15.10.23:915][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.30-15.10.23:931][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.30-15.10.23:989][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 57.638ms to complete.
+[2018.04.30-15.10.23:989][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 2.000
+[2018.04.30-15.10.24:042][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.30-15.10.24:142][  0]LogCollectionManager: Loaded 0 collections in 0.001746 seconds
+[2018.04.30-15.10.24:198][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Matthew/Documents/Unreal Projects/shootergame/Saved/Collections/' took 0.01s
+[2018.04.30-15.10.24:198][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Matthew/Documents/Unreal Projects/shootergame/Content/Developers/Matthew/Collections/' took 0.01s
+[2018.04.30-15.10.24:198][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Matthew/Documents/Unreal Projects/shootergame/Content/Collections/' took 0.01s
+[2018.04.30-15.10.24:198][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.04.30-15.10.24:209][  0]LogContentBrowser: Native class hierarchy populated in 0.0090 seconds. Added 2455 classes and 560 folders.
+[2018.04.30-15.10.24:219][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.04.30-15.10.24:558][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.04.30-15.10.24:568][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2018.04.30-15.10.24:623][  0]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.30-15.10.24:625][  0]LogSlate: Took 0.000210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.30-15.10.24:636][  0]LogSlate: Took 0.005713 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.30-15.10.24:781][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.04.30-15.10.24:889][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.04.30-15.10.24:889][  0]LogLoad: (Engine Initialization) Total time: 12.32 seconds
+[2018.04.30-15.10.24:889][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.30-15.10.24:930][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.04.30-15.10.24:932][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.30-15.10.24:997][  0]LogSlate: Took 0.005296 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.04.30-15.10.25:031][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Matthew/Documents/Unreal Projects/shootergame/Content/' took 0.12s
+[2018.04.30-15.10.25:041][  1]LogAssetRegistry: Asset discovery search completed in 7.5310 seconds
+[2018.04.30-15.10.25:043][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.04.30-15.10.25:043][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000052 seconds (updated 0 objects)
+[2018.04.30-15.11.00:659][267]LogSlate: Window 'Message Log' being destroyed
+[2018.04.30-15.11.00:661][267]LogSlate: Window 'Message Log' being destroyed
+[2018.04.30-15.11.02:949][541]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.30-15.11.03:090][557]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.04.30-15.11.03:229][557]LogAIModule: Creating AISystem for world FirstPersonExampleMap1
+[2018.04.30-15.11.03:249][557]Cmd: MAP LOAD FILE="../../../../../../Users/Matthew/Documents/Unreal Projects/shootergame/Content/Maps/FirstPersonExampleMap1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.30-15.11.03:250][557]LightingResults: New page: Lighting Build
+[2018.04.30-15.11.03:250][557]LoadErrors: New page: Loading map: FirstPersonExampleMap1.umap
+[2018.04.30-15.11.03:251][557]MapCheck: New page: Map Check
+[2018.04.30-15.11.03:251][557]LightingResults: New page: Lighting Build
+[2018.04.30-15.11.03:271][557]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.30-15.11.03:319][557]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.30-15.11.03:376][557]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 56.749ms to complete.
+[2018.04.30-15.11.03:376][557]LogFileHelpers: Loading map 'FirstPersonExampleMap1' took 0.127
+[2018.04.30-21.45.56:975][996]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.30-21.45.57:002][996]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel.FirstPersonExampleMap1' with GeneratedClass '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel.FirstPersonExampleMap1'
+[2018.04.30-21.45.57:002][996]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.30-21.45.57:003][996]PIE: New page: PIE session: FirstPersonExampleMap1 (Apr 30, 2018, 1:45:57 PM)
+[2018.04.30-21.45.57:004][996]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstPersonExampleMap1
+[2018.04.30-21.45.57:028][996]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024113s)
+[2018.04.30-21.45.57:029][996]LogAIModule: Creating AISystem for world FirstPersonExampleMap1
+[2018.04.30-21.45.57:029][996]LogPlayLevel: PIE: World Init took: (0.001354s)
+[2018.04.30-21.45.57:029][996]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1 to /Game/Maps/UEDPIE_0_FirstPersonExampleMap1.FirstPersonExampleMap1 (0.025673s)
+[2018.04.30-21.45.57:050][996]LogInit: XAudio2 using 'Headset Earphone (SteelSeries Arctis 5 Chat)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.30-21.45.57:058][996]LogInit: FAudioDevice initialized.
+[2018.04.30-21.45.57:102][996]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.04.30-21.45.57:106][996]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstPersonExampleMap1.FirstPersonExampleMap1 up for play (max tick rate 0) at 2018.04.30-17.45.57
+[2018.04.30-21.45.57:107][996]LogWorld: Bringing up level for play took: 0.003708
+[2018.04.30-21.45.57:116][996]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0009 seconds. Added 11 classes and 0 folders.
+[2018.04.30-21.45.57:125][996]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FirstPersonExampleMap1 0.988
+[2018.04.30-21.45.57:126][996]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel.FirstPersonExampleMap1' with GeneratedClass '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel.FirstPersonExampleMap1'
+[2018.04.30-21.45.57:127][996]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-21.45.57:172][997]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-21.45.57:289][  9]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-21.45.57:390][ 21]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-21.45.57:490][ 33]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-21.45.57:590][ 45]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-21.45.57:691][ 56]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-21.45.57:791][ 68]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-21.45.57:891][ 80]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-21.45.57:991][ 92]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-21.45.58:091][104]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-21.45.58:191][116]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-21.45.58:292][128]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-21.45.58:391][140]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-21.45.58:492][152]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-21.45.58:592][164]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-21.45.58:692][176]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-21.45.58:791][188]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-21.45.58:892][200]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-21.45.58:992][212]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-21.45.59:091][224]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-21.45.59:203][236]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-21.45.59:292][247]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-21.45.59:392][259]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-21.45.59:492][271]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-21.45.59:592][283]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-21.45.59:692][295]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-21.45.59:793][307]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-21.45.59:892][319]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-21.45.59:992][331]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-21.46.00:092][343]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-21.46.00:192][355]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-21.46.00:292][367]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-21.46.00:392][379]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-21.46.00:492][391]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-21.46.00:592][403]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-21.46.01:035][456]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel.FirstPersonExampleMap1' with GeneratedClass '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel.FirstPersonExampleMap1'
+[2018.04.30-21.46.01:070][456]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel.FirstPersonExampleMap1' with GeneratedClass '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel.FirstPersonExampleMap1'
+[2018.04.30-21.46.18:106][494]Cmd: SELECT NONE
+[2018.04.30-22.02.49:323][563]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.30-22.04.07:752][289]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.30-22.04.07:774][289]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel.FirstPersonExampleMap1' with GeneratedClass '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel.FirstPersonExampleMap1'
+[2018.04.30-22.04.07:774][289]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.30-22.04.07:774][289]PIE: New page: PIE session: FirstPersonExampleMap1 (Apr 30, 2018, 2:04:07 PM)
+[2018.04.30-22.04.07:774][289]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstPersonExampleMap1
+[2018.04.30-22.04.07:789][289]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014319s)
+[2018.04.30-22.04.07:790][289]LogAIModule: Creating AISystem for world FirstPersonExampleMap1
+[2018.04.30-22.04.07:790][289]LogPlayLevel: PIE: World Init took: (0.001181s)
+[2018.04.30-22.04.07:790][289]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1 to /Game/Maps/UEDPIE_0_FirstPersonExampleMap1.FirstPersonExampleMap1 (0.015721s)
+[2018.04.30-22.04.07:811][289]LogInit: XAudio2 using 'Headset Earphone (SteelSeries Arctis 5 Chat)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.30-22.04.07:818][289]LogInit: FAudioDevice initialized.
+[2018.04.30-22.04.07:851][289]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.04.30-22.04.07:854][289]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstPersonExampleMap1.FirstPersonExampleMap1 up for play (max tick rate 0) at 2018.04.30-18.04.07
+[2018.04.30-22.04.07:854][289]LogWorld: Bringing up level for play took: 0.001909
+[2018.04.30-22.04.07:858][289]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FirstPersonExampleMap1 -0.279
+[2018.04.30-22.04.07:858][289]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel.FirstPersonExampleMap1' with GeneratedClass '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel.FirstPersonExampleMap1'
+[2018.04.30-22.04.07:859][289]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.04.07:889][290]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.04.07:988][302]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.04.08:088][314]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.04.08:189][326]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.04.08:289][338]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.04.08:389][350]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.04.08:491][362]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.04.08:590][374]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.04.08:690][386]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.04.08:790][398]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.04.08:890][410]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.04.08:990][422]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.04.09:091][434]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.04.09:190][446]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.04.09:290][458]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.04.09:390][470]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.04.09:491][482]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.04.09:590][494]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.04.09:690][506]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.04.09:790][518]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.04.09:890][530]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.04.09:990][542]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.04.10:090][554]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.04.10:190][566]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.04.10:290][578]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.04.10:390][590]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.04.10:490][602]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.04.10:590][614]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.04.10:690][626]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.04.10:790][638]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.04.10:890][650]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.04.10:990][662]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.04.11:090][674]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.04.11:190][686]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.04.11:291][698]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.04.11:390][710]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.04.11:491][722]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.04.11:590][734]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.04.11:675][744]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel.FirstPersonExampleMap1' with GeneratedClass '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel.FirstPersonExampleMap1'
+[2018.04.30-22.04.11:710][744]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel.FirstPersonExampleMap1' with GeneratedClass '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel.FirstPersonExampleMap1'
+[2018.04.30-22.04.19:749][393]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.30-22.04.58:853][318]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.04.30-22.05.04:815][980]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 116 classes and 0 folders.
+[2018.04.30-22.05.07:191][146]LogRenderer: Reallocating scene render targets to support 1208x712 Format 10 NumSamples 1 (Frame:168).
+[2018.04.30-22.05.15:157][ 72]LogSlate: Took 0.005148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.30-22.05.46:407][512]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.30-22.06.45:957][719]BlueprintLog: New page: Compile Grenade
+[2018.04.30-22.06.46:630][766]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Projectiles/Grenade" FILE="../../../../../../Users/Matthew/Documents/Unreal Projects/shootergame/Content/Projectiles/Grenade.uasset" SILENT=true
+[2018.04.30-22.06.46:650][766]LogSavePackage: Save=18.77ms
+[2018.04.30-22.06.46:651][766]LogSavePackage: Moving '../../../../../../Users/Matthew/Documents/Unreal Projects/shootergame/Saved/Grenade4F0EE4C9420B87BEAD7EFFBF6398C230.tmp' to '../../../../../../Users/Matthew/Documents/Unreal Projects/shootergame/Content/Projectiles/Grenade.uasset'
+[2018.04.30-22.06.46:655][766]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matthew/Documents/Unreal Projects/shootergame/Content/Projectiles/Grenade.uasset
+[2018.04.30-22.06.56:832][947]LogSlate: Took 0.005423 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.30-22.07.45:057][770]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.04.30-22.08.20:345][281]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.04.30-22.08.21:682][364]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/FirstPersonCharacter" FILE="../../../../../../Users/Matthew/Documents/Unreal Projects/shootergame/Content/Characters/FirstPersonCharacter.uasset" SILENT=true
+[2018.04.30-22.08.21:786][364]LogSavePackage: Save=84.77ms
+[2018.04.30-22.08.21:786][364]LogSavePackage: Moving '../../../../../../Users/Matthew/Documents/Unreal Projects/shootergame/Saved/FirstPersonCharacter01F6DE704A8201A87443A1BDD9434962.tmp' to '../../../../../../Users/Matthew/Documents/Unreal Projects/shootergame/Content/Characters/FirstPersonCharacter.uasset'
+[2018.04.30-22.08.21:790][364]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matthew/Documents/Unreal Projects/shootergame/Content/Characters/FirstPersonCharacter.uasset
+[2018.04.30-22.08.27:481][934]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.04.30-22.08.28:352][970]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/FirstPersonCharacter" FILE="../../../../../../Users/Matthew/Documents/Unreal Projects/shootergame/Content/Characters/FirstPersonCharacter.uasset" SILENT=true
+[2018.04.30-22.08.28:442][970]LogSavePackage: Save=84.59ms
+[2018.04.30-22.08.28:442][970]LogSavePackage: Moving '../../../../../../Users/Matthew/Documents/Unreal Projects/shootergame/Saved/FirstPersonCharacter41FF44F84F61E096AAE46D89AC730DFA.tmp' to '../../../../../../Users/Matthew/Documents/Unreal Projects/shootergame/Content/Characters/FirstPersonCharacter.uasset'
+[2018.04.30-22.08.28:445][970]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matthew/Documents/Unreal Projects/shootergame/Content/Characters/FirstPersonCharacter.uasset
+[2018.04.30-22.08.40:021][213]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.30-22.08.40:060][213]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel.FirstPersonExampleMap1' with GeneratedClass '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel.FirstPersonExampleMap1'
+[2018.04.30-22.08.40:060][213]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.30-22.08.40:104][213]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2018.04.30-22.08.40:489][213]LogPlayLevel: PlayLevel: Blueprint regeneration took 428 ms (1 blueprints)
+[2018.04.30-22.08.40:489][213]PIE: New page: PIE session: FirstPersonExampleMap1 (Apr 30, 2018, 2:08:40 PM)
+[2018.04.30-22.08.40:518][213]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstPersonExampleMap1
+[2018.04.30-22.08.40:532][213]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013901s)
+[2018.04.30-22.08.40:533][213]LogAIModule: Creating AISystem for world FirstPersonExampleMap1
+[2018.04.30-22.08.40:533][213]LogPlayLevel: PIE: World Init took: (0.000969s)
+[2018.04.30-22.08.40:533][213]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1 to /Game/Maps/UEDPIE_0_FirstPersonExampleMap1.FirstPersonExampleMap1 (0.015119s)
+[2018.04.30-22.08.40:561][213]LogInit: XAudio2 using 'Headset Earphone (SteelSeries Arctis 5 Chat)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.30-22.08.40:568][213]LogInit: FAudioDevice initialized.
+[2018.04.30-22.08.40:602][213]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.04.30-22.08.40:604][213]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstPersonExampleMap1.FirstPersonExampleMap1 up for play (max tick rate 0) at 2018.04.30-18.08.40
+[2018.04.30-22.08.40:605][213]LogWorld: Bringing up level for play took: 0.001903
+[2018.04.30-22.08.40:608][213]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FirstPersonExampleMap1 0.471
+[2018.04.30-22.08.40:608][213]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel.FirstPersonExampleMap1' with GeneratedClass '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel.FirstPersonExampleMap1'
+[2018.04.30-22.08.40:608][213]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.40:629][214]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.40:732][226]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.40:833][238]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.40:933][250]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.41:032][262]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.41:133][274]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.41:233][286]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.41:333][298]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.41:433][310]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.41:532][322]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.41:633][334]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.41:733][346]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.41:832][358]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.41:933][370]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.42:033][382]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.42:133][394]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.42:233][406]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.42:336][418]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.42:436][430]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.42:536][442]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.42:636][454]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.42:736][466]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.42:836][478]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.42:938][490]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.43:039][502]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.43:139][514]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.43:239][526]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.43:338][538]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.43:438][550]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.43:539][562]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.43:639][574]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.43:738][586]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.43:838][598]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.43:939][610]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.44:038][622]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.44:138][634]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.44:238][646]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.44:338][658]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.44:438][670]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.44:539][682]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.44:639][694]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.44:739][706]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.44:839][718]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.44:939][730]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.45:039][742]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.45:138][754]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.45:238][766]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.45:339][778]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.45:439][790]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.45:538][802]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.45:639][814]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.45:739][826]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.45:838][838]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.45:939][850]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.46:039][862]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.46:139][874]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.46:239][886]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.46:339][898]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.46:438][910]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.46:539][922]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.46:638][934]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.46:739][946]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.46:839][958]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.46:939][970]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.47:039][982]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.47:139][994]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.47:239][  6]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.47:339][ 18]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.08.47:364][ 21]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel.FirstPersonExampleMap1' with GeneratedClass '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel.FirstPersonExampleMap1'
+[2018.04.30-22.08.47:394][ 21]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel.FirstPersonExampleMap1' with GeneratedClass '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel.FirstPersonExampleMap1'
+[2018.04.30-22.08.50:027][232]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.30-22.08.50:954][343]BlueprintLog: New page: Compile Grenade
+[2018.04.30-22.08.51:801][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Projectiles/Grenade" FILE="../../../../../../Users/Matthew/Documents/Unreal Projects/shootergame/Content/Projectiles/Grenade.uasset" SILENT=true
+[2018.04.30-22.08.51:832][407]LogSavePackage: Save=17.07ms
+[2018.04.30-22.08.51:832][407]LogSavePackage: Moving '../../../../../../Users/Matthew/Documents/Unreal Projects/shootergame/Saved/Grenade8BF3F3554AA5170CA7BF349D2DB56D4C.tmp' to '../../../../../../Users/Matthew/Documents/Unreal Projects/shootergame/Content/Projectiles/Grenade.uasset'
+[2018.04.30-22.08.51:833][407]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matthew/Documents/Unreal Projects/shootergame/Content/Projectiles/Grenade.uasset
+[2018.04.30-22.08.59:724][269]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.30-22.09.17:279][282]Cmd: DELETE
+[2018.04.30-22.09.17:279][282]Cmd: ACTOR DELETE
+[2018.04.30-22.09.17:288][282]LogEditorActor: Deleted Actor: Grenade_C
+[2018.04.30-22.09.17:313][282]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2018.04.30-22.09.18:856][467]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.30-22.09.18:914][474]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.30-22.09.18:945][474]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel.FirstPersonExampleMap1' with GeneratedClass '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel.FirstPersonExampleMap1'
+[2018.04.30-22.09.18:945][474]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.30-22.09.18:945][474]PIE: New page: PIE session: FirstPersonExampleMap1 (Apr 30, 2018, 2:09:18 PM)
+[2018.04.30-22.09.18:945][474]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstPersonExampleMap1
+[2018.04.30-22.09.18:959][474]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014293s)
+[2018.04.30-22.09.18:960][474]LogAIModule: Creating AISystem for world FirstPersonExampleMap1
+[2018.04.30-22.09.18:960][474]LogPlayLevel: PIE: World Init took: (0.000682s)
+[2018.04.30-22.09.18:960][474]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1 to /Game/Maps/UEDPIE_0_FirstPersonExampleMap1.FirstPersonExampleMap1 (0.015143s)
+[2018.04.30-22.09.18:990][474]LogInit: XAudio2 using 'Headset Earphone (SteelSeries Arctis 5 Chat)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.30-22.09.18:997][474]LogInit: FAudioDevice initialized.
+[2018.04.30-22.09.19:027][474]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.04.30-22.09.19:029][474]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstPersonExampleMap1.FirstPersonExampleMap1 up for play (max tick rate 0) at 2018.04.30-18.09.19
+[2018.04.30-22.09.19:029][474]LogWorld: Bringing up level for play took: 0.001801
+[2018.04.30-22.09.19:033][474]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FirstPersonExampleMap1 0.896
+[2018.04.30-22.09.19:033][474]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel.FirstPersonExampleMap1' with GeneratedClass '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel.FirstPersonExampleMap1'
+[2018.04.30-22.09.19:033][474]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.09.19:063][475]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.09.19:163][487]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.09.19:263][499]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.09.19:363][511]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.09.19:463][523]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.09.19:563][535]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.09.19:663][547]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.09.19:763][559]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.09.19:863][571]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.09.19:963][583]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.09.20:063][595]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.09.20:164][607]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.09.20:263][619]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.09.20:363][631]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.09.20:464][643]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.09.20:563][655]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.09.20:664][667]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.09.20:763][679]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.09.20:864][691]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.09.20:963][703]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.09.21:063][715]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.09.21:163][727]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.09.21:264][739]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.09.21:364][751]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.09.21:464][763]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.09.21:564][775]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.09.21:663][787]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.09.21:763][799]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.09.21:863][811]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.09.21:964][823]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.09.22:063][835]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.09.22:164][847]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.09.22:263][859]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.09.22:364][871]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.09.22:464][883]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.09.22:564][895]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.09.22:664][907]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.09.22:768][919]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.22:867][931]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.22:967][943]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.23:067][955]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.23:167][967]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.23:267][979]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.23:367][991]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.23:467][  3]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.23:567][ 15]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.23:667][ 27]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.23:767][ 39]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.23:867][ 51]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.23:967][ 63]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.24:067][ 75]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.24:167][ 87]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.24:268][ 99]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.24:367][111]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.24:467][123]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.24:567][135]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.24:667][147]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.24:767][159]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.24:867][171]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.24:967][183]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.25:068][195]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.25:168][207]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.25:267][219]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.25:368][231]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.25:468][243]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.25:568][255]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.25:667][267]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.25:767][279]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.25:867][291]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.25:967][303]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.26:067][315]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.26:168][327]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.26:267][339]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.26:367][351]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.26:467][363]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.26:567][375]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.26:667][387]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.26:767][399]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.26:867][411]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.26:968][423]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.27:068][435]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.27:168][447]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.27:267][459]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.27:368][471]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.27:468][483]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.27:568][495]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.27:667][507]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.27:767][519]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.27:867][531]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.27:967][543]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.28:067][555]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.28:167][567]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.28:267][579]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.28:368][591]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.28:468][603]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.28:567][615]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.28:667][627]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.28:768][639]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.28:868][651]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.28:967][663]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.29:067][675]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.29:167][687]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.29:268][699]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.29:367][711]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.29:467][723]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.29:568][735]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.29:667][747]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.29:768][759]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.29:868][771]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.29:967][783]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.30:067][795]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.30:168][807]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.30:268][819]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.30:368][831]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.30:468][843]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.30:568][855]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.30:668][867]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.30:768][879]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.30:867][891]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.30:968][903]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.31:067][915]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.31:168][927]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.31:268][939]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.31:368][951]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.31:468][963]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.31:568][975]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.31:668][987]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.31:768][999]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.31:868][ 11]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.31:968][ 23]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.32:068][ 35]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.32:168][ 47]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.32:268][ 59]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.32:368][ 71]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.32:468][ 83]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.32:568][ 95]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.32:668][107]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.32:768][119]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.32:868][131]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.32:968][143]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.33:068][155]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.33:168][167]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.33:268][179]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.33:368][191]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.33:468][203]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.33:568][215]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.33:668][227]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.33:768][239]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.33:868][251]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.33:969][263]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.34:069][275]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.34:168][287]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.34:268][299]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.34:368][311]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.34:468][323]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.34:568][335]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.34:668][347]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.34:768][359]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.34:868][371]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.34:968][383]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.35:068][395]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.35:168][407]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.35:268][419]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.35:368][431]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.35:468][443]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.35:568][455]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.35:668][467]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.35:768][479]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.35:868][491]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.35:968][503]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.36:068][515]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.36:169][527]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.36:268][539]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.36:368][551]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.36:468][563]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.36:569][575]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.36:669][587]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.36:769][599]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.36:869][611]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.36:969][623]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.37:069][635]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.37:169][647]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.37:269][659]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.37:369][671]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.37:469][683]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.37:569][695]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.37:669][707]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.37:769][719]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.37:869][731]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.37:969][743]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.38:069][755]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.38:168][767]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.38:268][779]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.38:369][791]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.38:468][803]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.38:569][815]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.09.38:586][817]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel.FirstPersonExampleMap1' with GeneratedClass '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel.FirstPersonExampleMap1'
+[2018.04.30-22.09.38:624][817]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel.FirstPersonExampleMap1' with GeneratedClass '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel.FirstPersonExampleMap1'
+[2018.04.30-22.09.44:046][ 92]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.30-22.10.37:080][459]BlueprintLog: New page: Compile Enemy_Melee
+[2018.04.30-22.10.37:793][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemies/Enemy_Melee" FILE="../../../../../../Users/Matthew/Documents/Unreal Projects/shootergame/Content/Characters/Enemies/Enemy_Melee.uasset" SILENT=true
+[2018.04.30-22.10.37:837][487]LogSavePackage: Save=34.47ms
+[2018.04.30-22.10.37:837][487]LogSavePackage: Moving '../../../../../../Users/Matthew/Documents/Unreal Projects/shootergame/Saved/Enemy_MeleeB48FAACC491DFB4300D29EBCEB1AF5EA.tmp' to '../../../../../../Users/Matthew/Documents/Unreal Projects/shootergame/Content/Characters/Enemies/Enemy_Melee.uasset'
+[2018.04.30-22.10.37:840][487]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matthew/Documents/Unreal Projects/shootergame/Content/Characters/Enemies/Enemy_Melee.uasset
+[2018.04.30-22.10.39:416][645]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.30-22.10.39:441][645]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel.FirstPersonExampleMap1' with GeneratedClass '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel.FirstPersonExampleMap1'
+[2018.04.30-22.10.39:441][645]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.30-22.10.39:442][645]PIE: New page: PIE session: FirstPersonExampleMap1 (Apr 30, 2018, 2:10:39 PM)
+[2018.04.30-22.10.39:442][645]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstPersonExampleMap1
+[2018.04.30-22.10.39:455][645]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013303s)
+[2018.04.30-22.10.39:456][645]LogAIModule: Creating AISystem for world FirstPersonExampleMap1
+[2018.04.30-22.10.39:456][645]LogPlayLevel: PIE: World Init took: (0.001033s)
+[2018.04.30-22.10.39:456][645]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1 to /Game/Maps/UEDPIE_0_FirstPersonExampleMap1.FirstPersonExampleMap1 (0.014551s)
+[2018.04.30-22.10.39:487][645]LogInit: XAudio2 using 'Headset Earphone (SteelSeries Arctis 5 Chat)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.30-22.10.39:494][645]LogInit: FAudioDevice initialized.
+[2018.04.30-22.10.39:525][645]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.04.30-22.10.39:527][645]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstPersonExampleMap1.FirstPersonExampleMap1 up for play (max tick rate 0) at 2018.04.30-18.10.39
+[2018.04.30-22.10.39:527][645]LogWorld: Bringing up level for play took: 0.001756
+[2018.04.30-22.10.39:531][645]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FirstPersonExampleMap1 -0.606
+[2018.04.30-22.10.39:531][645]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel.FirstPersonExampleMap1' with GeneratedClass '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel.FirstPersonExampleMap1'
+[2018.04.30-22.10.39:531][645]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.10.39:562][646]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.10.39:662][658]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.10.39:761][670]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.10.39:861][682]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.10.39:961][694]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.10.40:062][706]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.10.40:162][718]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.10.40:262][730]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.10.40:361][742]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.10.40:461][754]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.10.40:562][766]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.10.40:662][778]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.10.40:762][790]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.10.40:862][802]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.10.40:962][814]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.10.41:062][826]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.10.41:162][838]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.10.41:262][850]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.10.41:362][862]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.10.41:462][874]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.10.41:562][886]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.10.41:662][898]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.10.41:762][910]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.10.41:862][922]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.10.41:962][934]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.10.42:062][946]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.10.42:162][958]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.10.42:262][970]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.10.42:362][982]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.10.42:462][994]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.10.42:562][  6]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.10.42:662][ 18]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.10.42:762][ 30]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.10.42:862][ 42]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.10.42:962][ 54]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.10.43:062][ 66]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.10.43:162][ 78]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.10.43:262][ 90]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.10.43:362][102]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.10.43:462][114]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.10.43:562][126]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.10.43:662][138]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.10.43:762][150]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.10.43:862][162]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.10.43:962][174]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.10.44:062][186]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.10.44:162][198]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.10.44:262][210]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.10.44:362][222]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.10.44:462][234]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.10.44:563][246]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.10.44:662][258]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.10.44:762][270]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.10.44:863][282]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.10.45:355][341]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel.FirstPersonExampleMap1' with GeneratedClass '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel.FirstPersonExampleMap1'
+[2018.04.30-22.10.45:404][341]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel.FirstPersonExampleMap1' with GeneratedClass '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel.FirstPersonExampleMap1'
+[2018.04.30-22.11.19:003][584]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.30-22.13.54:321][968]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.30-22.13.57:163][261]LogEditorTransaction: Undo Set Scale
+[2018.04.30-22.13.57:704][261]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.539 s
+[2018.04.30-22.13.57:705][261]LogOutputDevice: Error: === Handled ensure: ===
+[2018.04.30-22.13.57:705][261]LogOutputDevice: Error: 
+[2018.04.30-22.13.57:705][261]LogOutputDevice: Error: Ensure condition failed: !GIsTransacting [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Editor\UnrealEd\Classes\Editor/TransBuffer.h] [Line: 72]
+[2018.04.30-22.13.57:705][261]LogOutputDevice: Error: 
+[2018.04.30-22.13.57:705][261]LogOutputDevice: Error: Stack: 
+[2018.04.30-22.13.57:705][261]LogOutputDevice: Error: [Callstack] 0x00000000E9DEBA76 UE4Editor-Core.dll!UnknownFunction []
+[2018.04.30-22.13.57:705][261]LogOutputDevice: Error: [Callstack] 0x00000000E9B4AE3A UE4Editor-Core.dll!UnknownFunction []
+[2018.04.30-22.13.57:705][261]LogOutputDevice: Error: [Callstack] 0x00000000E9B5ECD6 UE4Editor-Core.dll!UnknownFunction []
+[2018.04.30-22.13.57:705][261]LogOutputDevice: Error: [Callstack] 0x00000000E51DD23C UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.04.30-22.13.57:705][261]LogOutputDevice: Error: [Callstack] 0x00000000E51893EF UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.04.30-22.13.57:705][261]LogOutputDevice: Error: [Callstack] 0x00000000DEDE2BCB UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.04.30-22.13.57:705][261]LogOutputDevice: Error: [Callstack] 0x00000000DEDE39C5 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.04.30-22.13.57:705][261]LogOutputDevice: Error: [Callstack] 0x00000000DED95030 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.04.30-22.13.57:705][261]LogOutputDevice: Error: [Callstack] 0x00000000DED99C67 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.04.30-22.13.57:705][261]LogOutputDevice: Error: [Callstack] 0x00000000E6A63B20 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.30-22.13.57:705][261]LogOutputDevice: Error: [Callstack] 0x00000000E6A59031 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.30-22.13.57:705][261]LogOutputDevice: Error: [Callstack] 0x00000000E6A2D797 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.30-22.13.57:705][261]LogOutputDevice: Error: [Callstack] 0x00000000E6A2F9F7 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.30-22.13.57:705][261]LogOutputDevice: Error: [Callstack] 0x00000000E6AC58E5 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.30-22.13.57:705][261]LogOutputDevice: Error: [Callstack] 0x00000000E68E5A74 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.30-22.13.57:705][261]LogOutputDevice: Error: [Callstack] 0x00000000E6887584 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.30-22.13.57:705][261]LogOutputDevice: Error: [Callstack] 0x00000000E40DFAE4 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.04.30-22.13.57:705][261]LogOutputDevice: Error: [Callstack] 0x00000000E3E63439 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.04.30-22.13.57:705][261]LogOutputDevice: Error: [Callstack] 0x00000000E3DFF7AC UE4Editor-Kismet.dll!UnknownFunction []
+[2018.04.30-22.13.57:705][261]LogOutputDevice: Error: [Callstack] 0x00000000E3E044AC UE4Editor-Kismet.dll!UnknownFunction []
+[2018.04.30-22.13.57:705][261]LogOutputDevice: Error: [Callstack] 0x00000000E41C7959 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.04.30-22.13.57:705][261]LogOutputDevice: Error: [Callstack] 0x00000000E417792B UE4Editor-Kismet.dll!UnknownFunction []
+[2018.04.30-22.13.57:705][261]LogOutputDevice: Error: [Callstack] 0x00000000E417B8CA UE4Editor-Kismet.dll!UnknownFunction []
+[2018.04.30-22.13.57:705][261]LogOutputDevice: Error: [Callstack] 0x00000000E4179C57 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.04.30-22.13.57:705][261]LogOutputDevice: Error: [Callstack] 0x00000000E41CDFFC UE4Editor-Kismet.dll!UnknownFunction []
+[2018.04.30-22.13.57:705][261]LogOutputDevice: Error: [Callstack] 0x00000000E3DAC6F0 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.04.30-22.13.57:705][261]LogOutputDevice: Error: [Callstack] 0x00000000E3E267ED UE4Editor-Kismet.dll!UnknownFunction []
+[2018.04.30-22.13.57:705][261]LogOutputDevice: Error: [Callstack] 0x00000000E3E6FCAD UE4Editor-Kismet.dll!UnknownFunction []
+[2018.04.30-22.13.57:705][261]LogOutputDevice: Error: [Callstack] 0x00000000E518A0A6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.04.30-22.13.57:705][261]LogOutputDevice: Error: [Callstack] 0x00000000E51B2062 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.04.30-22.13.57:705][261]LogOutputDevice: Error: [Callstack] 0x00000000E5199329 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.04.30-22.13.57:705][261]LogOutputDevice: Error: [Callstack] 0x00000000E5199C5B UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.04.30-22.13.57:705][261]LogOutputDevice: Error: [Callstack] 0x00000000E520019B UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.04.30-22.13.57:705][261]LogOutputDevice: Error: [Callstack] 0x00000000E5241F9E UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.04.30-22.13.57:705][261]LogOutputDevice: Error: [Callstack] 0x00000000E3DFFE41 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.04.30-22.13.57:705][261]LogOutputDevice: Error: [Callstack] 0x00000000E3E04BA6 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.04.30-22.13.57:705][261]LogOutputDevice: Error: [Callstack] 0x00000000E6888376 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.30-22.13.57:705][261]LogOutputDevice: Error: [Callstack] 0x00000000E68C4BD0 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.30-22.13.57:705][261]LogOutputDevice: Error: [Callstack] 0x00000000E59E05AE UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.04.30-22.13.57:705][261]LogOutputDevice: Error: [Callstack] 0x00000000E59CBB4C UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.04.30-22.13.57:705][261]LogOutputDevice: Error: [Callstack] 0x00000000E6874D61 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.30-22.13.57:705][261]LogOutputDevice: Error: [Callstack] 0x00000000E6846D2D UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.30-22.13.57:705][261]LogOutputDevice: Error: [Callstack] 0x00000000E68488F6 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.30-22.13.57:705][261]LogOutputDevice: Error: [Callstack] 0x00000000E68C63CA UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.30-22.13.57:705][261]LogOutputDevice: Error: [Callstack] 0x00000000E68B99C8 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.30-22.13.57:705][261]LogOutputDevice: Error: [Callstack] 0x00000000139DE3DA UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.30-22.13.57:705][261]LogOutputDevice: Error: [Callstack] 0x00000000139D1B78 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.30-22.13.57:705][261]LogOutputDevice: Error: [Callstack] 0x00000000139E052C UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.30-22.13.57:705][261]LogOutputDevice: Error: [Callstack] 0x00000000139CD679 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.30-22.13.57:705][261]LogOutputDevice: Error: [Callstack] 0x000000002713B85D USER32.dll!UnknownFunction []
+[2018.04.30-22.13.57:705][261]LogOutputDevice: Error: [Callstack] 0x000000002713B1EF USER32.dll!UnknownFunction []
+[2018.04.30-22.13.57:705][261]LogOutputDevice: Error: [Callstack] 0x00000000139E1666 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.30-22.13.57:705][261]LogOutputDevice: Error: [Callstack] 0x0000000099FA5475 UE4Editor.exe!UnknownFunction []
+[2018.04.30-22.13.57:705][261]LogOutputDevice: Error: [Callstack] 0x0000000099FB6BD0 UE4Editor.exe!UnknownFunction []
+[2018.04.30-22.13.57:705][261]LogOutputDevice: Error: [Callstack] 0x0000000099FB6C4A UE4Editor.exe!UnknownFunction []
+[2018.04.30-22.13.57:705][261]LogOutputDevice: Error: [Callstack] 0x0000000099FC4149 UE4Editor.exe!UnknownFunction []
+[2018.04.30-22.13.57:705][261]LogOutputDevice: Error: [Callstack] 0x0000000099FC5B57 UE4Editor.exe!UnknownFunction []
+[2018.04.30-22.13.57:705][261]LogOutputDevice: Error: [Callstack] 0x0000000027CF1FE4 KERNEL32.DLL!UnknownFunction []
+[2018.04.30-22.13.57:705][261]LogOutputDevice: Error: [Callstack] 0x000000002989EFC1 ntdll.dll!UnknownFunction []
+[2018.04.30-22.13.57:705][261]LogOutputDevice: Error: 
+[2018.04.30-22.13.57:712][261]LogStats:                SubmitErrorReport -  0.000 s
+[2018.04.30-22.13.58:056][261]LogStats:                    SendNewReport -  0.344 s
+[2018.04.30-22.13.58:056][261]LogStats:             FDebug::EnsureFailed -  0.891 s
+[2018.04.30-22.13.58:490][306]LogEditorTransaction: Undo Add Component
+[2018.04.30-22.14.00:094][490]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.30-22.14.02:635][779]LogEditorTransaction: Undo Remove Components
+[2018.04.30-22.14.04:180][950]LogEditorTransaction: Undo Rename Component Variable
+[2018.04.30-22.14.06:454][221]LogEditorTransaction: Redo Rename Component Variable
+[2018.04.30-22.14.20:536][701]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.30-22.14.33:964][110]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.30-22.14.34:039][118]BlueprintLog: New page: Compile Grenade
+[2018.04.30-22.14.34:829][161]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Projectiles/Grenade" FILE="../../../../../../Users/Matthew/Documents/Unreal Projects/shootergame/Content/Projectiles/Grenade.uasset" SILENT=true
+[2018.04.30-22.14.34:859][161]LogSavePackage: Save=20.14ms
+[2018.04.30-22.14.34:859][161]LogSavePackage: Moving '../../../../../../Users/Matthew/Documents/Unreal Projects/shootergame/Saved/Grenade0F00DB204FBFC239666DBDB5F414A01A.tmp' to '../../../../../../Users/Matthew/Documents/Unreal Projects/shootergame/Content/Projectiles/Grenade.uasset'
+[2018.04.30-22.14.34:863][161]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matthew/Documents/Unreal Projects/shootergame/Content/Projectiles/Grenade.uasset
+[2018.04.30-22.14.37:004][394]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.30-22.14.37:030][394]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel.FirstPersonExampleMap1' with GeneratedClass '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel.FirstPersonExampleMap1'
+[2018.04.30-22.14.37:030][394]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.30-22.14.37:031][394]PIE: New page: PIE session: FirstPersonExampleMap1 (Apr 30, 2018, 2:14:37 PM)
+[2018.04.30-22.14.37:031][394]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstPersonExampleMap1
+[2018.04.30-22.14.37:045][394]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014008s)
+[2018.04.30-22.14.37:045][394]LogAIModule: Creating AISystem for world FirstPersonExampleMap1
+[2018.04.30-22.14.37:046][394]LogPlayLevel: PIE: World Init took: (0.000749s)
+[2018.04.30-22.14.37:046][394]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1 to /Game/Maps/UEDPIE_0_FirstPersonExampleMap1.FirstPersonExampleMap1 (0.014917s)
+[2018.04.30-22.14.37:075][394]LogInit: XAudio2 using 'Headset Earphone (SteelSeries Arctis 5 Chat)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.30-22.14.37:082][394]LogInit: FAudioDevice initialized.
+[2018.04.30-22.14.37:111][394]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.04.30-22.14.37:113][394]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstPersonExampleMap1.FirstPersonExampleMap1 up for play (max tick rate 0) at 2018.04.30-18.14.37
+[2018.04.30-22.14.37:113][394]LogWorld: Bringing up level for play took: 0.001925
+[2018.04.30-22.14.37:116][394]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FirstPersonExampleMap1 0.979
+[2018.04.30-22.14.37:116][394]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel.FirstPersonExampleMap1' with GeneratedClass '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel.FirstPersonExampleMap1'
+[2018.04.30-22.14.37:117][394]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.14.37:147][395]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.14.37:247][407]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.14.37:347][419]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.14.37:447][431]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.14.37:547][443]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.14.37:648][455]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.14.37:748][467]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.14.37:848][479]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.14.37:947][491]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.14.38:048][503]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.14.38:148][515]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.14.38:248][527]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.14.38:348][539]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.14.38:448][551]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.14.38:547][563]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.14.38:648][575]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.14.38:747][587]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.14.38:848][599]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.14.38:948][611]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.14.39:048][623]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.14.39:148][635]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.14.39:248][647]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.14.39:348][659]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.14.39:448][671]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.14.39:548][683]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.14.39:648][695]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.14.39:748][707]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.14.39:848][719]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.14.39:948][731]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.14.40:048][743]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.14.40:149][755]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.14.40:248][767]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.14.40:348][779]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.14.40:449][791]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.14.40:548][803]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.14.40:649][815]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.14.40:748][827]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.14.40:848][839]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.14.40:948][851]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.14.41:049][863]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.14.41:148][875]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.14.41:248][887]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.14.41:349][899]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.14.41:448][911]LogCharacterMovement: FirstPersonCharacter_C_1 is stuck and failed to move! Velocity: X=393.72 Y=452.76 Z=0.00 Location: X=-665.36 Y=-416.92 Z=266.73 Normal: X=-0.86 Y=-0.09 Z=-0.51 PenetrationDepth:10.927 Actor:Grenade_C_0 Component:Sphere BoneName:None (0 other events since notify)
+[2018.04.30-22.14.41:448][911]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.14.41:548][923]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.14.41:648][935]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.14.41:748][947]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.14.41:848][959]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.14.41:948][971]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.14.42:048][983]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.14.42:148][995]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.14.42:248][  7]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.14.42:348][ 19]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.14.42:448][ 31]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.14.42:548][ 43]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.14.42:648][ 55]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.42:748][ 67]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.42:781][ 71]LogCharacterMovement: FirstPersonCharacter_C_1 is stuck and failed to move! Velocity: X=432.99 Y=-415.35 Z=0.00 Location: X=-86.60 Y=-174.85 Z=266.45 Normal: X=-0.57 Y=0.64 Z=-0.51 PenetrationDepth:10.930 Actor:Grenade_C_1 Component:Sphere BoneName:None (7 other events since notify)
+[2018.04.30-22.14.42:848][ 79]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.42:948][ 91]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.43:048][103]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.43:148][115]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.43:249][127]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.43:348][139]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.43:448][151]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.43:549][163]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.43:649][175]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.43:748][187]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.43:848][199]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.43:948][211]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.44:048][223]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.44:148][235]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.44:249][247]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.44:348][259]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.44:407][266]LogCharacterMovement: FirstPersonCharacter_C_1 is stuck and failed to move! Velocity: X=207.09 Y=-374.64 Z=0.00 Location: X=159.45 Y=-445.83 Z=266.38 Normal: X=-0.17 Y=0.84 Z=-0.51 PenetrationDepth:10.916 Actor:Grenade_C_3 Component:Sphere BoneName:None (10 other events since notify)
+[2018.04.30-22.14.44:448][271]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.44:548][283]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.44:649][295]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.44:748][307]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.44:848][319]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.44:948][331]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.45:048][343]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.45:148][355]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.45:248][367]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.45:349][379]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.45:448][391]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.45:548][403]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.45:648][415]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.45:749][427]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.45:848][439]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.45:948][451]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.46:048][463]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.46:148][475]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.46:249][487]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.46:348][499]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.46:449][511]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.46:549][523]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.46:649][535]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.46:673][538]LogCharacterMovement: FirstPersonCharacter_C_1 is stuck and failed to move! Velocity: X=-269.86 Y=535.89 Z=0.00 Location: X=405.66 Y=-341.84 Z=266.55 Normal: X=-0.35 Y=0.77 Z=-0.54 PenetrationDepth:13.220 Actor:Grenade_C_6 Component:Sphere BoneName:None (31 other events since notify)
+[2018.04.30-22.14.46:749][547]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.46:848][559]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.46:948][571]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.47:049][583]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.47:148][595]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.47:249][607]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.47:349][619]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.47:448][631]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.47:549][643]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.47:649][655]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.47:673][658]LogCharacterMovement: FirstPersonCharacter_C_1 is stuck and failed to move! Velocity: X=-276.48 Y=532.50 Z=0.00 Location: X=160.51 Y=131.11 Z=266.54 Normal: X=-0.26 Y=0.61 Z=-0.75 PenetrationDepth:25.881 Actor:Grenade_C_7 Component:Sphere BoneName:None (13 other events since notify)
+[2018.04.30-22.14.47:749][667]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.47:848][679]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.47:949][691]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.48:048][703]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.48:149][715]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.48:249][727]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.48:349][739]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.48:449][751]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.48:549][763]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.48:649][775]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.48:749][787]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.48:849][799]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.48:949][811]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.49:015][819]LogCharacterMovement: FirstPersonCharacter_C_1 is stuck and failed to move! Velocity: X=141.32 Y=-583.12 Z=0.00 Location: X=-238.07 Y=283.13 Z=266.54 Normal: X=0.21 Y=-0.82 Z=-0.53 PenetrationDepth:13.594 Actor:Grenade_C_8 Component:Sphere BoneName:None (9 other events since notify)
+[2018.04.30-22.14.49:049][823]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.49:149][835]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.49:249][847]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.49:349][859]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.49:449][871]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.49:549][883]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.49:649][895]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.49:749][907]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.49:849][919]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.49:949][931]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.50:049][943]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.50:149][955]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.50:249][967]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.50:349][979]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.50:365][981]LogCharacterMovement: FirstPersonCharacter_C_1 is stuck and failed to move! Velocity: X=184.62 Y=-570.89 Z=0.00 Location: X=-30.12 Y=-368.50 Z=266.54 Normal: X=0.22 Y=-0.82 Z=-0.53 PenetrationDepth:13.594 Actor:Grenade_C_10 Component:Sphere BoneName:None (21 other events since notify)
+[2018.04.30-22.14.50:449][991]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.50:549][  3]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.50:649][ 15]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.50:749][ 27]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.50:849][ 39]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.50:949][ 51]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.51:049][ 63]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.51:149][ 75]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.51:250][ 87]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.51:349][ 99]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.51:450][111]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.51:549][123]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.51:650][135]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.51:749][147]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.51:849][159]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.51:874][162]LogCharacterMovement: FirstPersonCharacter_C_1 is stuck and failed to move! Velocity: X=-473.01 Y=369.14 Z=0.00 Location: X=-174.18 Y=-755.61 Z=266.54 Normal: X=-0.63 Y=0.57 Z=-0.53 PenetrationDepth:13.588 Actor:Grenade_C_12 Component:Sphere BoneName:None (23 other events since notify)
+[2018.04.30-22.14.51:949][171]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.52:049][183]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.52:150][195]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.52:249][207]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.52:349][219]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.52:449][231]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.52:549][243]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.52:649][255]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.52:749][267]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.52:849][279]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.52:949][291]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.53:049][303]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.53:149][315]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.53:249][327]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.53:349][339]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.53:449][351]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.53:524][360]LogCharacterMovement: FirstPersonCharacter_C_1 is stuck and failed to move! Velocity: X=143.64 Y=582.55 Z=0.00 Location: X=-106.01 Y=-11.82 Z=266.54 Normal: X=0.24 Y=0.81 Z=-0.53 PenetrationDepth:13.681 Actor:Grenade_C_14 Component:Sphere BoneName:None (23 other events since notify)
+[2018.04.30-22.14.53:549][363]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.53:649][375]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.53:749][387]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.53:849][399]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.53:949][411]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.54:049][423]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.54:149][435]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.54:249][447]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.54:349][459]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.54:450][471]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.54:550][483]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.54:650][495]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.54:750][507]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.54:850][519]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.54:950][531]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.55:050][543]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.55:149][555]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.55:249][567]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.55:258][568]LogCharacterMovement: FirstPersonCharacter_C_1 is stuck and failed to move! Velocity: X=-427.30 Y=421.21 Z=0.00 Location: X=-326.10 Y=692.98 Z=266.74 Normal: X=0.60 Y=-0.62 Z=-0.51 PenetrationDepth:10.914 Actor:Grenade_C_15 Component:Sphere BoneName:None (11 other events since notify)
+[2018.04.30-22.14.55:350][579]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.55:408][586]LogCharacterMovement: Enemy_Melee_C_0 is stuck and failed to move! Velocity: X=-392.66 Y=453.67 Z=0.00 Location: X=-238.76 Y=581.86 Z=262.25 Normal: X=0.20 Y=-0.97 Z=-0.15 PenetrationDepth:1.105 Actor:Grenade_C_15 Component:Sphere BoneName:None (0 other events since notify)
+[2018.04.30-22.14.55:449][591]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.55:550][603]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.55:650][615]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.55:749][627]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.55:850][639]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.55:950][651]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.56:050][663]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.56:149][675]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.56:250][687]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.56:350][699]LogBlueprintUserMessages: [LookForEnemy_C_0] FirstPersonCharacter
+[2018.04.30-22.14.56:433][709]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel.FirstPersonExampleMap1' with GeneratedClass '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel.FirstPersonExampleMap1'
+[2018.04.30-22.14.56:471][709]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel.FirstPersonExampleMap1' with GeneratedClass '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel.FirstPersonExampleMap1'
+[2018.04.30-22.14.57:481][785]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.30-22.15.09:694][941]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.30-22.15.09:720][941]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel.FirstPersonExampleMap1' with GeneratedClass '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel.FirstPersonExampleMap1'
+[2018.04.30-22.15.09:721][941]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.30-22.15.09:768][941]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2018.04.30-22.15.10:259][941]LogPlayLevel: PlayLevel: Blueprint regeneration took 538 ms (1 blueprints)
+[2018.04.30-22.15.10:259][941]PIE: New page: PIE session: FirstPersonExampleMap1 (Apr 30, 2018, 2:15:10 PM)
+[2018.04.30-22.15.10:288][941]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstPersonExampleMap1
+[2018.04.30-22.15.10:302][941]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013550s)
+[2018.04.30-22.15.10:302][941]LogAIModule: Creating AISystem for world FirstPersonExampleMap1
+[2018.04.30-22.15.10:303][941]LogPlayLevel: PIE: World Init took: (0.000886s)
+[2018.04.30-22.15.10:303][941]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1 to /Game/Maps/UEDPIE_0_FirstPersonExampleMap1.FirstPersonExampleMap1 (0.014657s)
+[2018.04.30-22.15.10:331][941]LogInit: XAudio2 using 'Headset Earphone (SteelSeries Arctis 5 Chat)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.30-22.15.10:337][941]LogInit: FAudioDevice initialized.
+[2018.04.30-22.15.10:370][941]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.04.30-22.15.10:372][941]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstPersonExampleMap1.FirstPersonExampleMap1 up for play (max tick rate 0) at 2018.04.30-18.15.10
+[2018.04.30-22.15.10:373][941]LogWorld: Bringing up level for play took: 0.001771
+[2018.04.30-22.15.10:376][941]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FirstPersonExampleMap1 0.239
+[2018.04.30-22.15.10:376][941]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel.FirstPersonExampleMap1' with GeneratedClass '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel.FirstPersonExampleMap1'
+[2018.04.30-22.15.10:377][941]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.10:398][942]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.10:497][951]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.10:597][963]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.10:697][975]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.10:797][987]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.10:898][999]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.10:997][ 11]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.11:098][ 23]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.11:198][ 35]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.11:298][ 47]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.11:398][ 59]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.11:498][ 71]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.11:598][ 83]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.11:699][ 95]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.11:798][107]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.11:898][119]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.11:998][131]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.12:098][143]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.12:198][155]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.12:298][167]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.12:398][179]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.12:498][191]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.12:598][203]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.12:698][215]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.12:798][227]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.12:898][239]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.12:998][251]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.13:099][263]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.13:199][275]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.13:298][287]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.13:399][299]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.13:498][311]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.13:557][318]LogCharacterMovement: FirstPersonCharacter_C_1 is stuck and failed to move! Velocity: X=-483.13 Y=-355.79 Z=0.00 Location: X=-1166.21 Y=-138.40 Z=266.43 Normal: X=0.71 Y=0.48 Z=-0.51 PenetrationDepth:10.913 Actor:Grenade_C_3 Component:Sphere BoneName:None (0 other events since notify)
+[2018.04.30-22.15.13:599][323]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.13:698][335]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.13:799][347]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.13:898][359]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.13:999][371]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.14:098][383]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.14:199][395]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.14:299][407]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.14:399][419]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.14:499][431]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.14:599][443]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.14:699][455]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.14:757][462]LogCharacterMovement: FirstPersonCharacter_C_1 is stuck and failed to move! Velocity: X=-483.13 Y=-355.79 Z=0.00 Location: X=-1610.60 Y=-466.16 Z=266.72 Normal: X=0.72 Y=0.48 Z=-0.51 PenetrationDepth:10.912 Actor:Grenade_C_6 Component:Sphere BoneName:None (31 other events since notify)
+[2018.04.30-22.15.14:799][467]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.14:899][479]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.14:999][491]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.15:099][503]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.15:199][515]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.15:299][527]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.15:399][539]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.15:499][551]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.15:599][563]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.15:699][575]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.15:757][582]LogCharacterMovement: FirstPersonCharacter_C_1 is stuck and failed to move! Velocity: X=483.13 Y=355.78 Z=0.00 Location: X=-1599.84 Y=-458.40 Z=266.52 Normal: X=-0.40 Y=-0.36 Z=-0.84 PenetrationDepth:25.194 Actor:Grenade_C_7 Component:Sphere BoneName:None (16 other events since notify)
+[2018.04.30-22.15.15:799][587]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.15:899][599]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.15:999][611]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.16:099][623]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.16:199][635]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.16:299][647]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.16:399][659]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.16:499][671]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.16:599][683]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.16:699][695]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.16:799][707]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.16:899][719]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.16:999][731]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.17:099][743]LogCharacterMovement: FirstPersonCharacter_C_1 is stuck and failed to move! Velocity: X=483.14 Y=355.77 Z=0.00 Location: X=-1249.27 Y=-201.59 Z=266.53 Normal: X=0.70 Y=0.46 Z=-0.55 PenetrationDepth:12.888 Actor:Grenade_C_10 Component:Sphere BoneName:None (25 other events since notify)
+[2018.04.30-22.15.17:099][743]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.17:199][755]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.17:299][767]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.17:399][779]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.17:499][791]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.17:599][803]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.17:699][815]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.17:799][827]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.17:899][839]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.17:999][851]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.18:099][863]LogCharacterMovement: FirstPersonCharacter_C_1 is stuck and failed to move! Velocity: X=96.18 Y=72.20 Z=0.00 Location: X=-948.43 Y=19.65 Z=266.72 Normal: X=0.67 Y=0.45 Z=-0.59 PenetrationDepth:16.712 Actor:Grenade_C_12 Component:Sphere BoneName:None (21 other events since notify)
+[2018.04.30-22.15.18:100][863]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.18:199][875]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.18:299][887]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.18:399][899]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.18:499][911]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.18:599][923]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.18:699][935]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.18:799][947]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.18:899][959]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.18:999][971]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.19:100][983]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.19:200][995]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.19:299][  7]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.19:400][ 19]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.19:499][ 31]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.19:599][ 43]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.19:699][ 55]LogBlueprintUserMessages: [LookForEnemy_C_0] 
+[2018.04.30-22.15.19:725][ 58]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel.FirstPersonExampleMap1' with GeneratedClass '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel.FirstPersonExampleMap1'
+[2018.04.30-22.15.19:759][ 58]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel.FirstPersonExampleMap1' with GeneratedClass '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap1.FirstPersonExampleMap1:PersistentLevel.FirstPersonExampleMap1'
+[2018.04.30-22.16.02:759][319]LogSavePackage: Save=1010.29ms
+[2018.04.30-22.16.02:759][319]LogSavePackage: Moving '../../../../../../Users/Matthew/Documents/Unreal Projects/shootergame/Saved/FirstPersonExampleMap1_Auto1456915C24A97BB3487ADEA9BB2BCE082.tmp' to '../../../../../../Users/Matthew/Documents/Unreal Projects/shootergame/Saved/Autosaves/Game/Maps/FirstPersonExampleMap1_Auto1.umap'
+[2018.04.30-22.16.02:760][319]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matthew/Documents/Unreal Projects/shootergame/Saved/Autosaves/Game/Maps/FirstPersonExampleMap1_Auto1.umap
+[2018.04.30-22.16.02:766][319]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/FirstPersonExampleMap1' took 1.080
+[2018.04.30-22.16.02:766][319]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.080
+[2018.04.30-22.16.02:772][319]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/FirstPersonCharacter] ([1] browsable assets)...
+[2018.04.30-22.16.02:792][319]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Characters/FirstPersonCharacter.FirstPersonCharacter]
+[2018.04.30-22.16.02:792][319]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/FirstPersonCharacter]
+[2018.04.30-22.16.02:886][319]LogSavePackage: Save=85.11ms
+[2018.04.30-22.16.02:886][319]LogSavePackage: Moving '../../../../../../Users/Matthew/Documents/Unreal Projects/shootergame/Saved/FirstPersonCharacter_Auto106491FEB40D34F83A6A902A4A70D8041.tmp' to '../../../../../../Users/Matthew/Documents/Unreal Projects/shootergame/Saved/Autosaves/Game/Characters/FirstPersonCharacter_Auto1.uasset'
+[2018.04.30-22.16.02:888][319]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matthew/Documents/Unreal Projects/shootergame/Saved/Autosaves/Game/Characters/FirstPersonCharacter_Auto1.uasset
+[2018.04.30-22.16.02:888][319]LogFileHelpers: Auto-saving content packages took 0.117
+[2018.04.30-23.43.37:727][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.30-23.43.38:941][ 94]LogSlate: Window 'Enemy_Melee' being destroyed
+[2018.04.30-23.43.38:943][ 94]LogSlate: Window 'Enemy_Melee' being destroyed
+[2018.04.30-23.43.39:031][ 94]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.04.30-23.43.39:111][ 94]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.04.30-23.43.40:813][ 94]LogSlate: Window 'Save Content' being destroyed
+[2018.04.30-23.43.44:237][394]LogSlate: Window 'Save Content' being destroyed
+[2018.04.30-23.43.44:249][394]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/FirstPersonCharacter" FILE="../../../../../../Users/Matthew/Documents/Unreal Projects/shootergame/Content/Characters/FirstPersonCharacter.uasset" SILENT=true
+[2018.04.30-23.43.44:347][394]LogSavePackage: Save=83.00ms
+[2018.04.30-23.43.44:347][394]LogSavePackage: Moving '../../../../../../Users/Matthew/Documents/Unreal Projects/shootergame/Saved/FirstPersonCharacter205DC7354B529D1D8914999208D8005F.tmp' to '../../../../../../Users/Matthew/Documents/Unreal Projects/shootergame/Content/Characters/FirstPersonCharacter.uasset'
+[2018.04.30-23.43.44:354][394]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matthew/Documents/Unreal Projects/shootergame/Content/Characters/FirstPersonCharacter.uasset
+[2018.04.30-23.43.45:550][394]LogSavePackage: Save=1087.34ms
+[2018.04.30-23.43.45:550][394]LogSavePackage: Moving '../../../../../../Users/Matthew/Documents/Unreal Projects/shootergame/Saved/FirstPersonExampleMap11E9569FC4744FEA1ECCB38B35F20D4C2.tmp' to '../../../../../../Users/Matthew/Documents/Unreal Projects/shootergame/Content/Maps/FirstPersonExampleMap1.umap'
+[2018.04.30-23.43.45:557][394]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matthew/Documents/Unreal Projects/shootergame/Content/Maps/FirstPersonExampleMap1.umap
+[2018.04.30-23.43.45:598][394]LogFileHelpers: Saving map 'FirstPersonExampleMap1' took 1.241
+[2018.04.30-23.43.45:702][394]LogSlate: Window 'cs461_prototype - Unreal Editor' being destroyed
+[2018.04.30-23.43.45:702][394]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.30-23.43.45:873][395]Cmd: QUIT_EDITOR
+[2018.04.30-23.43.46:233][395]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.04.30-23.43.46:234][395]LogExit: Preparing to exit.
+[2018.04.30-23.43.46:576][395]LogDirectoryWatcher: A directory notification failed for 'C:/Users/Matthew/Documents/Unreal Projects/shootergame/Content/', and we were unable to create a new request.
+[2018.04.30-23.43.46:612][395]LogExit: Editor shut down
+[2018.04.30-23.43.46:621][395]LogExit: Transaction tracking system shut down
+[2018.04.30-23.43.46:819][395]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.04.30-23.43.46:819][395]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Matthew/Documents/Unreal Projects/shootergame/Content/' was aborted.
+[2018.04.30-23.43.46:819][395]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2018.04.30-23.43.46:819][395]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2018.04.30-23.43.46:819][395]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.04.30-23.43.46:819][395]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.04.30-23.43.46:819][395]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.04.30-23.43.46:819][395]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.04.30-23.43.46:928][395]LogExit: Object subsystem successfully closed.
+[2018.04.30-23.43.46:939][395]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.04.30-23.43.46:942][395]LogD3D11RHI: Shutdown
+[2018.04.30-23.43.46:942][395]LogD3D11RHI: CleanupD3DDevice
+[2018.04.30-23.43.46:946][395]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.04.30-23.43.46:960][395]LogModuleManager: Shutting down and abandoning module BlueprintGraph (580)
+[2018.04.30-23.43.46:960][395]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (578)
+[2018.04.30-23.43.46:960][395]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (576)
+[2018.04.30-23.43.46:960][395]LogModuleManager: Shutting down and abandoning module DesktopPlatform (574)
+[2018.04.30-23.43.46:960][395]LogModuleManager: Shutting down and abandoning module SceneOutliner (572)
+[2018.04.30-23.43.46:960][395]LogModuleManager: Shutting down and abandoning module AddContentDialog (570)
+[2018.04.30-23.43.46:961][395]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.19/FeaturePacks/' was aborted.
+[2018.04.30-23.43.46:962][395]LogModuleManager: Shutting down and abandoning module WidgetCarousel (569)
+[2018.04.30-23.43.46:962][395]LogModuleManager: Shutting down and abandoning module EditorWidgets (566)
+[2018.04.30-23.43.46:962][395]LogModuleManager: Shutting down and abandoning module CollectionManager (564)
+[2018.04.30-23.43.46:962][395]LogDirectoryWatcher: A directory notification for 'C:/Users/Matthew/Documents/Unreal Projects/shootergame/Content/Collections/' was aborted.
+[2018.04.30-23.43.46:962][395]LogDirectoryWatcher: A directory notification for 'C:/Users/Matthew/Documents/Unreal Projects/shootergame/Content/Developers/Matthew/Collections/' was aborted.
+[2018.04.30-23.43.46:962][395]LogDirectoryWatcher: A directory notification for 'C:/Users/Matthew/Documents/Unreal Projects/shootergame/Saved/Collections/' was aborted.
+[2018.04.30-23.43.46:962][395]LogModuleManager: Shutting down and abandoning module StatsViewer (562)
+[2018.04.30-23.43.46:962][395]LogModuleManager: Shutting down and abandoning module FoliageEdit (560)
+[2018.04.30-23.43.46:962][395]LogModuleManager: Shutting down and abandoning module LandscapeEditor (558)
+[2018.04.30-23.43.46:962][395]LogModuleManager: Shutting down and abandoning module MeshPaintMode (556)
+[2018.04.30-23.43.46:962][395]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (554)
+[2018.04.30-23.43.46:962][395]LogModuleManager: Shutting down and abandoning module ActorPickerMode (552)
+[2018.04.30-23.43.46:962][395]LogModuleManager: Shutting down and abandoning module GeometryMode (550)
+[2018.04.30-23.43.46:962][395]LogModuleManager: Shutting down and abandoning module TextureAlignMode (548)
+[2018.04.30-23.43.46:962][395]LogModuleManager: Shutting down and abandoning module BspMode (546)
+[2018.04.30-23.43.46:962][395]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (544)
+[2018.04.30-23.43.46:962][395]LogModuleManager: Shutting down and abandoning module HardwareSurvey (542)
+[2018.04.30-23.43.46:962][395]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (540)
+[2018.04.30-23.43.46:962][395]LogModuleManager: Shutting down and abandoning module AutomationWorker (538)
+[2018.04.30-23.43.46:962][395]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (536)
+[2018.04.30-23.43.46:962][395]LogModuleManager: Shutting down and abandoning module SequenceRecorder (535)
+[2018.04.30-23.43.46:962][395]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (532)
+[2018.04.30-23.43.46:962][395]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (530)
+[2018.04.30-23.43.46:962][395]LogModuleManager: Shutting down and abandoning module PlacementMode (529)
+[2018.04.30-23.43.46:962][395]LogModuleManager: Shutting down and abandoning module MaterialEditor (528)
+[2018.04.30-23.43.46:962][395]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (524)
+[2018.04.30-23.43.46:962][395]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (522)
+[2018.04.30-23.43.46:962][395]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (520)
+[2018.04.30-23.43.46:963][395]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (518)
+[2018.04.30-23.43.46:963][395]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (516)
+[2018.04.30-23.43.46:963][395]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (514)
+[2018.04.30-23.43.46:963][395]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (512)
+[2018.04.30-23.43.46:963][395]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (510)
+[2018.04.30-23.43.46:963][395]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (508)
+[2018.04.30-23.43.46:963][395]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (506)
+[2018.04.30-23.43.46:963][395]LogModuleManager: Shutting down and abandoning module CharacterAI (504)
+[2018.04.30-23.43.46:963][395]LogModuleManager: Shutting down and abandoning module SmartSnapping (502)
+[2018.04.30-23.43.46:963][395]LogModuleManager: Shutting down and abandoning module SessionServices (500)
+[2018.04.30-23.43.46:963][395]LogModuleManager: Shutting down and abandoning module ViewportSnapping (498)
+[2018.04.30-23.43.46:963][395]LogModuleManager: Shutting down and abandoning module ViewportInteraction (496)
+[2018.04.30-23.43.46:963][395]LogModuleManager: Shutting down and abandoning module ClothPainter (494)
+[2018.04.30-23.43.46:963][395]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (493)
+[2018.04.30-23.43.46:963][395]LogModuleManager: Shutting down and abandoning module LogVisualizer (490)
+[2018.04.30-23.43.46:963][395]LogModuleManager: Shutting down and abandoning module IntroTutorials (488)
+[2018.04.30-23.43.46:963][395]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (487)
+[2018.04.30-23.43.46:963][395]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (484)
+[2018.04.30-23.43.46:963][395]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (482)
+[2018.04.30-23.43.46:963][395]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (480)
+[2018.04.30-23.43.46:963][395]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (479)
+[2018.04.30-23.43.47:326][395]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (476)
+[2018.04.30-23.43.47:326][395]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (474)
+[2018.04.30-23.43.47:326][395]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (472)
+[2018.04.30-23.43.47:326][395]LogModuleManager: Shutting down and abandoning module InputBindingEditor (470)
+[2018.04.30-23.43.47:326][395]LogModuleManager: Shutting down and abandoning module MergeActors (468)
+[2018.04.30-23.43.47:326][395]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (466)
+[2018.04.30-23.43.47:326][395]LogModuleManager: Shutting down and abandoning module LocalizationService (465)
+[2018.04.30-23.43.47:326][395]LogModuleManager: Shutting down and abandoning module HardwareTargeting (462)
+[2018.04.30-23.43.47:326][395]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (460)
+[2018.04.30-23.43.47:326][395]LogModuleManager: Shutting down and abandoning module UndoHistory (458)
+[2018.04.30-23.43.47:326][395]LogModuleManager: Shutting down and abandoning module XmlParser (456)
+[2018.04.30-23.43.47:329][395]LogModuleManager: Shutting down and abandoning module Blutility (454)
+[2018.04.30-23.43.47:329][395]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (452)
+[2018.04.30-23.43.47:329][395]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (451)
+[2018.04.30-23.43.47:329][395]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (448)
+[2018.04.30-23.43.47:329][395]LogModuleManager: Shutting down and abandoning module SettingsEditor (446)
+[2018.04.30-23.43.47:329][395]LogModuleManager: Shutting down and abandoning module ProjectLauncher (444)
+[2018.04.30-23.43.47:329][395]LogModuleManager: Shutting down and abandoning module SessionFrontend (442)
+[2018.04.30-23.43.47:329][395]LogModuleManager: Shutting down and abandoning module ProfilerClient (440)
+[2018.04.30-23.43.47:329][395]LogModuleManager: Shutting down and abandoning module DeviceManager (438)
+[2018.04.30-23.43.47:329][395]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (437)
+[2018.04.30-23.43.47:386][395]LogModuleManager: Shutting down and abandoning module AutomationController (434)
+[2018.04.30-23.43.47:386][395]LogModuleManager: Shutting down and abandoning module AutomationWindow (432)
+[2018.04.30-23.43.47:386][395]LogModuleManager: Shutting down and abandoning module Layers (430)
+[2018.04.30-23.43.47:386][395]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (428)
+[2018.04.30-23.43.47:386][395]LogModuleManager: Shutting down and abandoning module DetailCustomizations (426)
+[2018.04.30-23.43.47:386][395]LogModuleManager: Shutting down and abandoning module PackagesDialog (424)
+[2018.04.30-23.43.47:387][395]LogModuleManager: Shutting down and abandoning module Persona (422)
+[2018.04.30-23.43.47:387][395]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (421)
+[2018.04.30-23.43.47:388][395]LogModuleManager: Shutting down and abandoning module AnimGraph (419)
+[2018.04.30-23.43.47:388][395]LogModuleManager: Shutting down and abandoning module Kismet (416)
+[2018.04.30-23.43.47:403][395]LogModuleManager: Shutting down and abandoning module GraphEditor (414)
+[2018.04.30-23.43.47:403][395]LogModuleManager: Shutting down and abandoning module ClassViewer (412)
+[2018.04.30-23.43.47:405][395]LogModuleManager: Shutting down and abandoning module Toolbox (410)
+[2018.04.30-23.43.47:405][395]LogModuleManager: Shutting down and abandoning module ModuleUI (408)
+[2018.04.30-23.43.47:405][395]LogModuleManager: Shutting down and abandoning module MovieSceneTools (406)
+[2018.04.30-23.43.47:405][395]LogModuleManager: Shutting down and abandoning module OutputLog (404)
+[2018.04.30-23.43.47:405][395]LogModuleManager: Shutting down and abandoning module GammaUI (402)
+[2018.04.30-23.43.47:405][395]LogModuleManager: Shutting down and abandoning module Documentation (400)
+[2018.04.30-23.43.47:405][395]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (398)
+[2018.04.30-23.43.47:405][395]LogModuleManager: Shutting down and abandoning module MovieScene (396)
+[2018.04.30-23.43.47:405][395]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (394)
+[2018.04.30-23.43.47:407][395]LogModuleManager: Shutting down and abandoning module LauncherPlatform (392)
+[2018.04.30-23.43.47:407][395]LogModuleManager: Shutting down and abandoning module AnalyticsET (390)
+[2018.04.30-23.43.47:407][395]LogModuleManager: Shutting down and abandoning module PortalServices (388)
+[2018.04.30-23.43.47:407][395]LogModuleManager: Shutting down and abandoning module PortalRpc (386)
+[2018.04.30-23.43.47:408][395]LogModuleManager: Shutting down and abandoning module MessagingRpc (384)
+[2018.04.30-23.43.47:408][395]LogModuleManager: Shutting down and abandoning module AIModule (382)
+[2018.04.30-23.43.47:408][395]LogModuleManager: Shutting down and abandoning module GameplayDebugger (381)
+[2018.04.30-23.43.47:408][395]LogModuleManager: Shutting down and abandoning module AITestSuite (379)
+[2018.04.30-23.43.47:408][395]LogModuleManager: Shutting down and abandoning module ProfilerService (376)
+[2018.04.30-23.43.47:608][395]LogModuleManager: Shutting down and abandoning module TaskGraph (374)
+[2018.04.30-23.43.47:609][395]LogModuleManager: Shutting down and abandoning module SteamVRController (372)
+[2018.04.30-23.43.47:609][395]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (370)
+[2018.04.30-23.43.47:609][395]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (368)
+[2018.04.30-23.43.47:609][395]LogModuleManager: Shutting down and abandoning module OculusInput (366)
+[2018.04.30-23.43.47:609][395]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (364)
+[2018.04.30-23.43.47:609][395]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (362)
+[2018.04.30-23.43.47:609][395]LogModuleManager: Shutting down and abandoning module CableComponent (360)
+[2018.04.30-23.43.47:609][395]LogModuleManager: Shutting down and abandoning module AudioCapture (358)
+[2018.04.30-23.43.47:609][395]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (356)
+[2018.04.30-23.43.47:609][395]LogModuleManager: Shutting down and abandoning module AndroidPermission (354)
+[2018.04.30-23.43.47:609][395]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (350)
+[2018.04.30-23.43.47:609][395]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (348)
+[2018.04.30-23.43.47:609][395]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (346)
+[2018.04.30-23.43.47:609][395]LogModuleManager: Shutting down and abandoning module MediaCompositing (344)
+[2018.04.30-23.43.47:609][395]LogModuleManager: Shutting down and abandoning module LinearTimecode (342)
+[2018.04.30-23.43.47:609][395]LogModuleManager: Shutting down and abandoning module ImgMedia (340)
+[2018.04.30-23.43.47:642][395]LogModuleManager: Shutting down and abandoning module HTML5Networking (338)
+[2018.04.30-23.43.47:642][395]LogModuleManager: Shutting down and abandoning module AlembicImporter (336)
+[2018.04.30-23.43.47:642][395]LogModuleManager: Shutting down and abandoning module AlembicLibrary (335)
+[2018.04.30-23.43.47:642][395]LogModuleManager: Shutting down and abandoning module GeometryCache (334)
+[2018.04.30-23.43.47:642][395]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (333)
+[2018.04.30-23.43.47:642][395]LogModuleManager: Shutting down and abandoning module DatasmithContent (328)
+[2018.04.30-23.43.47:642][395]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (326)
+[2018.04.30-23.43.47:642][395]LogModuleManager: Shutting down and abandoning module PluginBrowser (324)
+[2018.04.30-23.43.47:642][395]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (322)
+[2018.04.30-23.43.47:643][395]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (320)
+[2018.04.30-23.43.47:643][395]LogModuleManager: Shutting down and abandoning module CryptoKeys (318)
+[2018.04.30-23.43.47:643][395]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (316)
+[2018.04.30-23.43.47:643][395]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (314)
+[2018.04.30-23.43.47:643][395]LogModuleManager: Shutting down and abandoning module UObjectPlugin (312)
+[2018.04.30-23.43.47:643][395]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (310)
+[2018.04.30-23.43.47:643][395]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (308)
+[2018.04.30-23.43.47:643][395]LogModuleManager: Shutting down and abandoning module GitSourceControl (306)
+[2018.04.30-23.43.47:643][395]LogModuleManager: Shutting down and abandoning module SourceControl (305)
+[2018.04.30-23.43.47:643][395]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (302)
+[2018.04.30-23.43.47:643][395]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (300)
+[2018.04.30-23.43.47:643][395]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (298)
+[2018.04.30-23.43.47:656][395]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (296)
+[2018.04.30-23.43.47:656][395]LogModuleManager: Shutting down and abandoning module Paper2DEditor (294)
+[2018.04.30-23.43.47:656][395]LogModuleManager: Shutting down and abandoning module MeshPaint (293)
+[2018.04.30-23.43.47:656][395]LogModuleManager: Shutting down and abandoning module cs461_prototype (290)
+[2018.04.30-23.43.47:656][395]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (288)
+[2018.04.30-23.43.47:656][395]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (286)
+[2018.04.30-23.43.47:656][395]LogModuleManager: Shutting down and abandoning module PhysXVehicles (284)
+[2018.04.30-23.43.47:656][395]LogModuleManager: Shutting down and abandoning module OculusEditor (282)
+[2018.04.30-23.43.47:656][395]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (280)
+[2018.04.30-23.43.47:656][395]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (278)
+[2018.04.30-23.43.47:656][395]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (276)
+[2018.04.30-23.43.47:656][395]LogModuleManager: Shutting down and abandoning module ActorSequence (274)
+[2018.04.30-23.43.47:656][395]LogModuleManager: Shutting down and abandoning module UdpMessaging (272)
+[2018.04.30-23.43.47:757][395]LogModuleManager: Shutting down and abandoning module TcpMessaging (270)
+[2018.04.30-23.43.47:857][395]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2018.04.30-23.43.47:857][395]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2018.04.30-23.43.47:857][395]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2018.04.30-23.43.47:857][395]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2018.04.30-23.43.47:857][395]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2018.04.30-23.43.47:857][395]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2018.04.30-23.43.47:858][395]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2018.04.30-23.43.47:858][395]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2018.04.30-23.43.47:858][395]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2018.04.30-23.43.47:858][395]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2018.04.30-23.43.47:858][395]LogDirectoryWatcher: A directory notification for 'C:/Users/Matthew/Documents/Unreal Projects/shootergame/Binaries/Win64' was aborted.
+[2018.04.30-23.43.47:861][395]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2018.04.30-23.43.47:864][395]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2018.04.30-23.43.47:864][395]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
+[2018.04.30-23.43.47:864][395]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (242)
+[2018.04.30-23.43.47:864][395]LogModuleManager: Shutting down and abandoning module LiveLink (240)
+[2018.04.30-23.43.48:678][395]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2018.04.30-23.43.48:678][395]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2018.04.30-23.43.48:678][395]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2018.04.30-23.43.48:679][395]LogModuleManager: Shutting down and abandoning module PacketHandler (232)
+[2018.04.30-23.43.48:679][395]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (230)
+[2018.04.30-23.43.48:679][395]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (228)
+[2018.04.30-23.43.48:679][395]LogModuleManager: Shutting down and abandoning module MediaAssets (226)
+[2018.04.30-23.43.48:679][395]LogModuleManager: Shutting down and abandoning module Media (225)
+[2018.04.30-23.43.48:685][395]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2018.04.30-23.43.48:685][395]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2018.04.30-23.43.48:685][395]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2018.04.30-23.43.48:685][395]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2018.04.30-23.43.48:685][395]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2018.04.30-23.43.48:685][395]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2018.04.30-23.43.48:685][395]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2018.04.30-23.43.48:685][395]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2018.04.30-23.43.48:685][395]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2018.04.30-23.43.48:685][395]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2018.04.30-23.43.48:685][395]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2018.04.30-23.43.48:685][395]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2018.04.30-23.43.48:686][395]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2018.04.30-23.43.48:686][395]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2018.04.30-23.43.48:686][395]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2018.04.30-23.43.48:686][395]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2018.04.30-23.43.48:687][395]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2018.04.30-23.43.48:687][395]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2018.04.30-23.43.48:688][395]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2018.04.30-23.43.48:688][395]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2018.04.30-23.43.48:688][395]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2018.04.30-23.43.48:688][395]LogModuleManager: Shutting down and abandoning module Core (178)
+[2018.04.30-23.43.48:688][395]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
+[2018.04.30-23.43.48:688][395]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2018.04.30-23.43.48:688][395]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2018.04.30-23.43.48:688][395]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2018.04.30-23.43.48:688][395]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2018.04.30-23.43.48:688][395]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
+[2018.04.30-23.43.48:688][395]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
+[2018.04.30-23.43.48:688][395]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2018.04.30-23.43.48:688][395]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2018.04.30-23.43.48:688][395]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
+[2018.04.30-23.43.48:689][395]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2018.04.30-23.43.48:694][395]LogDerivedDataCache: Shutdown
+[2018.04.30-23.43.48:694][395]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2018.04.30-23.43.48:694][395]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2018.04.30-23.43.48:694][395]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2018.04.30-23.43.48:694][395]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2018.04.30-23.43.48:694][395]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2018.04.30-23.43.48:694][395]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2018.04.30-23.43.48:694][395]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2018.04.30-23.43.48:694][395]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2018.04.30-23.43.48:694][395]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2018.04.30-23.43.48:694][395]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2018.04.30-23.43.48:694][395]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2018.04.30-23.43.48:695][395]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2018.04.30-23.43.48:695][395]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2018.04.30-23.43.48:695][395]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2018.04.30-23.43.48:695][395]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2018.04.30-23.43.48:695][395]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2018.04.30-23.43.48:695][395]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2018.04.30-23.43.48:695][395]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2018.04.30-23.43.48:695][395]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2018.04.30-23.43.48:695][395]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2018.04.30-23.43.48:695][395]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2018.04.30-23.43.48:695][395]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2018.04.30-23.43.48:695][395]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2018.04.30-23.43.48:695][395]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2018.04.30-23.43.48:695][395]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2018.04.30-23.43.48:695][395]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2018.04.30-23.43.48:695][395]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2018.04.30-23.43.48:695][395]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2018.04.30-23.43.48:695][395]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2018.04.30-23.43.48:695][395]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2018.04.30-23.43.48:695][395]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
+[2018.04.30-23.43.48:695][395]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2018.04.30-23.43.48:695][395]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2018.04.30-23.43.48:695][395]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2018.04.30-23.43.48:695][395]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2018.04.30-23.43.48:695][395]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2018.04.30-23.43.48:695][395]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2018.04.30-23.43.48:695][395]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2018.04.30-23.43.48:695][395]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2018.04.30-23.43.48:695][395]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2018.04.30-23.43.48:695][395]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2018.04.30-23.43.48:695][395]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2018.04.30-23.43.48:695][395]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2018.04.30-23.43.48:695][395]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2018.04.30-23.43.48:695][395]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2018.04.30-23.43.48:695][395]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2018.04.30-23.43.48:695][395]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2018.04.30-23.43.48:695][395]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2018.04.30-23.43.48:695][395]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2018.04.30-23.43.48:695][395]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2018.04.30-23.43.48:695][395]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.04.30-23.43.48:695][395]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.04.30-23.43.48:695][395]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.04.30-23.43.48:696][395]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.04.30-23.43.48:696][395]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.04.30-23.43.48:696][395]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.04.30-23.43.48:696][395]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6074DEB1-4CE0-1E66-BB77-77A8726A0009%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.0-3944462%2B%2B%2BUE4%2BRelease-4.19&UserID=7d8567ed42b06c217dee3490223a476c%7C0ae8a13d18f14d1fa75d8c35059f1959%7Ccb080a76-6252-4ea2-8fb1-712365debb3e&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.04.30-23.43.48:711][395]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.04.30-23.43.48:712][395]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.04.30-23.43.48:712][395]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.04.30-23.43.48:712][395]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.04.30-23.43.48:712][395]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.04.30-23.43.48:712][395]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.04.30-23.43.48:712][395]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.04.30-23.43.48:712][395]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.04.30-23.43.48:713][395]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.04.30-23.43.48:713][395]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.04.30-23.43.48:713][395]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.04.30-23.43.48:713][395]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.04.30-23.43.48:713][395]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.04.30-23.43.48:713][395]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.04.30-23.43.48:713][395]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.04.30-23.43.48:713][395]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.04.30-23.43.48:713][395]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.04.30-23.43.48:713][395]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.04.30-23.43.48:713][395]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.04.30-23.43.48:717][395]LogExit: Exiting.
+[2018.04.30-23.43.48:737][395]Log file closed, 04/30/18 19:43:48
