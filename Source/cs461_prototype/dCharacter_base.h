@@ -9,7 +9,7 @@
 
 
 UCLASS()
-class CS461_PROTOTYPE_API AdCharacter_base : public ACharacter, public IGenericTeamAgentInterface
+class CS461_PROTOTYPE_API AdCharacter_base : public ACharacter//, public IGenericTeamAgentInterface
 {
 	GENERATED_BODY()
 
@@ -22,7 +22,7 @@ protected:
 	virtual void BeginPlay() override;
 
 private:
-	FGenericTeamId TeamID = FGenericTeamId(255);
+	//FGenericTeamId TeamID = FGenericTeamId(9);
 
 public:	
 	// Called every frame
@@ -30,14 +30,14 @@ public:
 
 	// Called to bind functionality to input
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
-
+	/*
 	UFUNCTION(BlueprintPure, Category = "Team")
 		int GetTeam();
 	UFUNCTION(BlueprintCallable, Category = "Team")
 		void SetTeam(int t);
-
-	virtual FGenericTeamId GetGenericTeamId() const override;
-	virtual void SetGenericTeamId(const FGenericTeamId &t) override;
+		*/
+	//virtual FGenericTeamId GetGenericTeamId() const override;
+	//virtual void SetGenericTeamId(const FGenericTeamId &t) override;
 
 
 	
