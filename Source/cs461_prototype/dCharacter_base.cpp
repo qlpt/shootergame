@@ -32,7 +32,7 @@ void AdCharacter_base::SetupPlayerInputComponent(UInputComponent* PlayerInputCom
 
 }
 
-
+/*
 FGenericTeamId AdCharacter_base::GetGenericTeamId() const
 {
 	return TeamID;
@@ -53,4 +53,4 @@ void AdCharacter_base::SetTeam(int t)
 {
 	SetGenericTeamId(FGenericTeamId(t));
 }
-
+*/
