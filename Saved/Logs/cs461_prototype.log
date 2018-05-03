@@ -10214,3 +10214,4 @@ LogInit: Object subsystem initialized
 [2018.05.03-18.02.45:194][262]LogSavePackage: Save=40.81ms
 [2018.05.03-18.02.45:195][262]LogSavePackage: Moving 'C:/Users/William/Documents/GitHub/shootergame/Saved/FirstPersonExampleMap_BuiltData433BDED64FA1FAD980FB9DB39990C12B.tmp' to 'C:/Users/William/Documents/GitHub/shootergame/Content/Maps/FirstPersonExampleMap_BuiltData.uasset'
 [2018.05.03-18.02.45:200][262]LogSavePackage: Display: Finished SavePackage C:/Users/William/Documents/GitHub/shootergame/Content/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2018.05.03-18.03.32:071][498]LogSlate: FSceneViewport::OnFocusLost() reason 0
