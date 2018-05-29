@@ -1,0 +1,30 @@
+﻿  Cleaning cs461_prototypeEditor Binaries...
+  Using 'git status' to determine working set for adaptive non-unity build.
+  Using 'git status' to determine working set for adaptive non-unity build.
+  Creating makefile for cs461_prototypeEditor (no existing makefile)
+  Performing full C++ include scan (no include cache file)
+  Parsing headers for cs461_prototypeEditor
+    Running UnrealHeaderTool "C:\Users\Matthew\Documents\Unreal Projects\shootergame\cs461_prototype.uproject" "C:\Users\Matthew\Documents\Unreal Projects\shootergame\Intermediate\Build\Win64\cs461_prototypeEditor\Development\cs461_prototypeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for cs461_prototypeEditor in 8.1156751 seconds
+  Deleting old hot reload file: "C:\Users\Matthew\Documents\Unreal Projects\shootergame\Binaries\Win64\UE4Editor-cs461_prototype-1224.dll".
+  Deleting old hot reload file: "C:\Users\Matthew\Documents\Unreal Projects\shootergame\Binaries\Win64\UE4Editor-cs461_prototype-1224.pdb".
+  Deleting old hot reload file: "C:\Users\Matthew\Documents\Unreal Projects\shootergame\Binaries\Win64\UE4Editor-cs461_prototype-4956.dll".
+  Deleting old hot reload file: "C:\Users\Matthew\Documents\Unreal Projects\shootergame\Binaries\Win64\UE4Editor-cs461_prototype-4956.pdb".
+  Performing 13 actions (4 in parallel)
+  [3/13] Resource PCLaunch.rc
+  [2/13] Resource ModuleVersionResource.rc.inl
+  SharedPCH.Engine.cpp
+  dCharacter_base.cpp
+  cs461_prototype.cpp
+  dCharacter.cpp
+  NPCController_base.cpp
+  cs461_prototype.init.gen.cpp
+  dCharacter.gen.cpp
+  dCharacter_base.gen.cpp
+  NPCController_base.gen.cpp
+  [12/13] Link UE4Editor-cs461_prototype.dll
+  [13/13] Link UE4Editor-cs461_prototype.lib
+     Creating library C:\Users\Matthew\Documents\Unreal Projects\shootergame\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-cs461_prototype.lib and object C:\Users\Matthew\Documents\Unreal Projects\shootergame\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-cs461_prototype.exp
+     Creating library C:\Users\Matthew\Documents\Unreal Projects\shootergame\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-cs461_prototype.suppressed.lib and object C:\Users\Matthew\Documents\Unreal Projects\shootergame\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-cs461_prototype.suppressed.exp
+  Deploying cs461_prototypeEditor Win64 Development...
+  Total build time: 19.55 seconds (Local executor: 5.44 seconds)

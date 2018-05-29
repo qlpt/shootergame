@@ -1,2 +1,6 @@
 
 cs461_prototype.VC.db
+/Binaries/*
+/Saved/Crashes/*
+/Saved/Logs/*
+/Saved/StagedBuilds/*
